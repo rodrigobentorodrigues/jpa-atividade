@@ -1,0 +1,8 @@
+com/ifpb/dac/relacionamentos/loader/Main.class
+com/ifpb/dac/relacionamentos/entidades/Ator.class
+com/ifpb/dac/relacionamentos/entidades/Filme.class
+com/ifpb/dac/relacionamentos/entidades/EventoFilmePK.class
+com/ifpb/dac/relacionamentos/entidades/EventoFilme.class
+com/ifpb/dac/relacionamentos/entidades/Genero.class
+com/ifpb/dac/relacionamentos/entidades/Sexo.class
+com/ifpb/dac/relacionamentos/entidades/Evento.class
